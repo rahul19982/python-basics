@@ -19,6 +19,7 @@ add_num(10, 20)
 
 <br/>
 
+
 **2) Map Function**. The *map()* function is a built-in function, it calls the specified function for each item of an iterable (such as string, list, tuple or dictionary) and returns a list of results.
 
 *Syntax of map function*: `map(function, iterable [, iterable2, iterable3,...iterableN])`
@@ -41,3 +42,5 @@ list(filter(lambda num: num%2==0, num_list))
 ```
 
 <br/>
+
+
