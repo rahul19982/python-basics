@@ -43,4 +43,13 @@ list(filter(lambda num: num%2==0, num_list))
 
 <br/>
 
+**3)** The number of active campaigns.
+
+```sql
+SELECT COUNT(DISTINCT a.campaign_id)
+FROM Ads AS a
+WHERE a.status = 'active';
+```
+
+<br/>
 
