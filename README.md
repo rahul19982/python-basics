@@ -1,3 +1,3 @@
 # python-basics
 
-This repo contains syntactical concepts of python and other important concepts for interview purpose.
+This repository contains syntactical concepts of python and other important concepts for interview purpose.
