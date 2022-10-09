@@ -1,3 +1,3 @@
-# python-basics
+#### python-basics
 
-This repository contains syntactical concepts of python and other important concepts.
+## This repository contains syntactical concepts of python and other important concepts.
